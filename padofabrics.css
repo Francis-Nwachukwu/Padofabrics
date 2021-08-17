@@ -1,0 +1,24 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background: transparent;
+}
+
+#footer1 li a{
+    list-style: none;
+    text-decoration: none;
+    padding:15px;
+}
+#home{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#colour{
+    margin: 15px;
+}
+#fabric{
+    margin: 15px;
+}
+#purpose{
+    margin: 15px;
+}
