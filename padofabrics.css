@@ -3,7 +3,12 @@ body{
     font-size: 15px;
     background: transparent;
 }
-
+.nav-fixed{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+}
 #footer1 li a{
     list-style: none;
     text-decoration: none;
